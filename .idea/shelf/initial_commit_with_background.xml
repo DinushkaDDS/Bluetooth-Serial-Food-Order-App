@@ -1,0 +1,9 @@
+<changelist name="initial_commit_with_background" date="1515335102907" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/initial_commit_with_background/shelved.patch" />
+  <option name="DESCRIPTION" value="initial commit with background" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="app/src/main/res/drawable/bgimg.jpeg" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/initial_commit_with_background/bgimg.jpeg" />
+  </binary>
+</changelist>
